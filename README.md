@@ -33,36 +33,6 @@ Whether you're looking for collaboration on tech projects or want to share insig
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love making videos and exploring new things in my free time! 🎥🌍
 
-## GitHub Stats 📊
-<div align="center">
-
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdiibrahim&show_icons=true&theme=radical)
-
-</div>
-
-## Streak Stats 🔥
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mdiibrahim&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
-## Top Languages 👨‍💻
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdiibrahim&layout=compact&theme=radical)
-
-</div>
-
-## 📊 GitHub Contributions Graph
-
-<div align="center">
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdiibrahim&bg_color=1f1f1f&color=ffffff&line=ff5733&point=ffff00&area=true&hide_border=true)
-
-</div>
-
-
 # 🛠️ Technologies & Tools:
 
 ### Expertise
@@ -110,6 +80,47 @@ Whether you're looking for collaboration on tech projects or want to share insig
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 </div>
+
+## 📈 My Daily.dev DevCard
+<div align="center">
+If you're interested in staying updated with the latest tech trends and news, follow my daily.dev feed! 
+
+<a href="https://app.daily.dev/mdiibrahim" target="_blank">
+  <img src="https://api.daily.dev/devcards/v2/ilJG0s4gtJbvMqpKDVBGt.png?type=wide&r=mhg" width="600" alt="Mohammad Ibrahim's Dev Card"/>
+</a>
+</div>
+
+## GitHub Stats 📊
+<div align="center">
+
+![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdiibrahim&show_icons=true&theme=radical)
+
+</div>
+
+## Streak Stats 🔥
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mdiibrahim&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+## Top Languages 👨‍💻
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdiibrahim&layout=compact&theme=radical)
+
+</div>
+
+## 📊 GitHub Contributions Graph
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdiibrahim&bg_color=1f1f1f&color=ffffff&line=ff5733&point=ffff00&area=true&hide_border=true)
+
+</div>
+
+
+
 
 ## 🌍 Visitor Count
 *Since September 20, 2024*
