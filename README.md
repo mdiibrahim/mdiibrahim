@@ -11,16 +11,27 @@ Take a seat, grab a snack 🍕, and feel free to explore my projects—just be c
 ---
 
 ### About Me
-I'm **Mohammad Ibrahim**, a passionate **MERN Stack Developer** and the founder of **PoshKits**, with expertise in full-stack development, digital marketing, and machine learning. I have a strong foundation in Computer Science & Engineering and have been honing my skills through both entrepreneurial ventures and personal projects.
+I'm **Mohammad Ibrahim**, an aspiring entrepreneur and **Junior MERN Engineer** based in **Chittagong, Bangladesh**. I have completed my **BSc in Computer Science & Engineering** at East Delta University, with a strong foundation in **MERN stack development**.
+
+# 💡 My Vision:
+I am passionate about leveraging technology to solve real-world problems and drive business innovation. My goal is to enhance my technical skills and business acumen by collaborating on impactful projects with both national and international tech firms.
+
+# 🏅 Achievements:
+- Awarded the **Programming Hero 'Black Belt Web Developer'** title for demonstrating industry-level skills.
+- Decorated with 7 times **Dean's List awards**, reflecting my commitment to academic  excellence.
+
+# 📞 Let's Connect:
+Whether you're looking for collaboration on tech projects or want to share insights, I'm eager to connect with like-minded professionals and industry leaders. Check out my projects on **[my portfolio website](https://mdiibrahim.vercel.app/)** and feel free to view **[my resume](https://drive.google.com/drive/folders/1VpQaKKRkPEl6QdcacTekAIBJIZajuGRT?usp=drive_link)**.
+
 
 - 🔭 I’m currently working on **[PoshKits](https://poshkitsbd.com/)**, a CMS platform to empower digital businesses with personalized marketing solutions.
-- 🌱 I’m currently learning **Blockchain Development** and improving my **Redux** skills.
+- 🌱 I’m currently learning **Digital Marketing** and improving my **Entrepreneurial** skills.
 - 👯 I’m looking to collaborate on **open-source MERN stack projects** or **AI-driven web applications**.
 - 🤔 I’m looking for help with **deploying scalable backend services on AWS**.
 - 💬 Ask me about **JavaScript, MERN stack, Meta Ads, and Social Media Marketing**.
 - 📫 How to reach me: **[mdiibrahim549@gmail.com](mailto:mdiibrahim549@gmail.com)** or [LinkedIn](https://www.linkedin.com/in/mdiibrahim/)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love to making video and explore new things in my free time!**
+- ⚡ Fun fact: I love making videos and exploring new things in my free time! 🎥🌍
 
 ## GitHub Stats 📊
 <div align="center">
@@ -100,6 +111,16 @@ I'm **Mohammad Ibrahim**, a passionate **MERN Stack Developer** and the founder 
 
 </div>
 
+## 🌍 Visitor Count
+*Since September 20, 2024*
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/{mdiibrahim}/count.svg)
+
+</div>
+
+
+
 ## 📫 Reach Me Out!
 
 <div align="center">
@@ -110,5 +131,7 @@ I'm **Mohammad Ibrahim**, a passionate **MERN Stack Developer** and the founder 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/mdiibrahim)
 
 </div>
+
+
 
 Feel free to follow or star some of my repositories if they pique your interest! 🌟
